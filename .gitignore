@@ -1,0 +1,6 @@
+lambdas/**/node_modules
+bot/*/node_modules
+*/node_modules
+android/app/release
+assets
+.env
