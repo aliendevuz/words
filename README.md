@@ -1,6 +1,6 @@
 # 4000 Words multimodule project
 
-`Assalomu aleykum`
+## `Assalomu aleykum`
 
 Bu loyiha "4000 Essential English Words" kitobi asosida ishlab chiqarilgan. Asosiy maqsadi foydalanuvchilarga personalizatsiya asosida lug'at yodlashini yanada samaraliroq qilish. Bunda foydalanuvchi qaysi so'zda ko'p xato qilishini aniqlab shu so'zni test savollariga ko'proq qo'shish asosida o'rganish jarayonini yanada samaraliroq qilishga urg'u berilgan
 
