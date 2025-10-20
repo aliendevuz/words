@@ -10,3 +10,7 @@ Bu loyiha "4000 Essential English Words" kitobi asosida ishlab chiqarilgan. Asos
 - [bot](https://github.com/aliendevuz/words-bot) - Loyihani qo'llab quvvatlash uchun telegram kanalda test savollarini yaratib turish (hali tayyor emas)
 - [frontend](https://github.com/aliendevuz/words-frontend) - Loyiha uchun websayt
 - [upload](https://github.com/aliendevuz/words-upload) - AWS S3 bucketga manbani versiya va hashlangan holatda yuklash uchun yozilgan (manbaga ishlov berish uchun ichida betartib kodlar qoldig'i qolib ketgan)
+
+## Ishtirokchilar:
+👨‍💻 [Xalilov Ibrohim](https://linkedin.com/in/aliendevuz) - Dasturchi
+👨‍🏫 [Olim Xolbekov](https://t.me/abc_2202) - Dastur manbasini tayyorlovchi
